@@ -21,6 +21,10 @@ pip install -r requirements.txt
 ```
 
 # Usage
+
 python 0_understanding_rnn.py
+
 python 1_sentiment_CBOW.py
+
+and so on.
 
