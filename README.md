@@ -4,7 +4,7 @@ Material for MODU
 # Requirements
 
 
-python==3.6.5
+python==3.6.5 \\
 mxnet==1.3.0
 xgboost==0.80
 nltk==3.3
