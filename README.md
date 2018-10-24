@@ -22,9 +22,20 @@ pip install -r requirements.txt
 
 # Usage
 
+Before run models please issue the following code.
+
+```
+python -m spacy download en
+```
+
+To learn about the basics on gluon RNN API, issue the following code.
+
+```
 python 0_understanding_rnn.py
+```
 
+```
 python 1_sentiment_CBOW.py
-
+```
 and so on.
 

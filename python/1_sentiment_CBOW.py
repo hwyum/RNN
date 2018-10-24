@@ -8,7 +8,7 @@ from sklearn.preprocessing import normalize
 from utils import *
 
 nltk.download('punkt')
-os.system('python -m spacy download en')
+#os.system('python -m spacy download en')
 
 max_vocab = 2000
 max_sen_len = 40
